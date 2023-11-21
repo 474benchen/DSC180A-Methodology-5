@@ -7,7 +7,7 @@ I added ^ that so that it's included in index.md; makes my website look ugly tho
 --->
 
 Hi Praveen, before I answer the MA questions, I thought it imperative for you to see this cat:
-<img src='/imgs/cat.png'>
+<img src='./imgs/cat.png'>
 
 
 1. **What is the most interesting topic covered in your domain this quarter?**
